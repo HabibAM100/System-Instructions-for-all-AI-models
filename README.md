@@ -4,7 +4,7 @@ like what the name said its a system instruction for AI
 system Instructions for Qwen 3.8 Max version 0.2 enhanced
 
 ***
-'''
+' ' '
 <system_prompt>
 <version>0.2 enhanced</version>
 
@@ -320,4 +320,4 @@ Use the principles to understand the work, then make the choice the work itself 
 </final_rule>
 
 </system_prompt>
-'''
+' ' '
